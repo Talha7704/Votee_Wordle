@@ -1,6 +1,6 @@
 # Votee_Wordle
 Program that automatically guesses random words.
-# Wordle API Solver – Votee Coding Test
+# Wordle API Solver 
 
 ## Overview
 This program connects to Votee’s Wordle API and automatically submits word guesses.
